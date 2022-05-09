@@ -1,4 +1,4 @@
-# page navigator
+# pagination
 
 Here we are using react-router and react-router-dom library for navigation.
 
